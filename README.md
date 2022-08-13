@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Nobiscumdeus
-- 👀 I’m interested in learning, teaching and working with programming languages
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on software development ,web development and cybersecurity
-- 📫 How to reach me @Oyindam40639391
+Compilation of projects on web development, which includes server side and client side ends
 
 <!---
 Nobiscumdeus/Nobiscumdeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
