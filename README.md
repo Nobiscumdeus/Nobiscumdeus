@@ -1,4 +1,4 @@
-Compilation of projects on web development, which includes server side and client side ends
+Compilation of projects on full stack software development, data science and machine learning and much more ...
 
 <!---
 Nobiscumdeus/Nobiscumdeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
