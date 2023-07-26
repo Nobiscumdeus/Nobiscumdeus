@@ -1,5 +1,5 @@
 <p align="center">
-CHASFAT : Just Classicals, Health, Academics,Finance, Agriculture and Technology
+<h1>CHASFAT </h1>: <h3>Just Classicals, Health, Academics,Finance, Agriculture and Technology</h3> 
 </p>
 Compilation of projects on full stack software development, data science and machine learning and much more ...
 
