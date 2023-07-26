@@ -1,3 +1,6 @@
+<p align="center">
+CHASFAT : Just Classicals, Health, Academics,Finance, Agriculture and Technology
+</p>
 Compilation of projects on full stack software development, data science and machine learning and much more ...
 
 <!---
