@@ -1,5 +1,5 @@
 <p align="center">
-<h1>CHASFAT </h1>: <h3>Just Classicals, Health, Academics,Finance, Agriculture and Technology</h3> 
+<a href="https://chasfatprojects.netlify.app" target="_blank"><h1>CHASFAT</h1> </a></h1> <br/> <h3>Just Classicals, Health, Academics,Finance, Agriculture and Technology</h3> 
 </p>
 Compilation of projects on full stack software development, data science and machine learning and much more ...
 
