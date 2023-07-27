@@ -6,9 +6,7 @@
 <p align="center">
 
 <a href="https://chasfatprojects.netlify.app/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-
+  🔗 Link to my Online Portfolio
 </p>    
 
 <p align="center">
@@ -16,19 +14,14 @@
 </p>
 <p>
 
-I love the Ministry &#10013; | Medicine &#128104; &#8205; &#9877; &#65039; | Music &#127932; | Machines </>
+I love the Ministry &#10013; | Medicine  🩺👨‍⚕️&#128104; &#8205; &#9877; &#65039; | Music &#127932; | Machines </> | Military 🎯💂
 </p>
 <h3> Little About me </h3>
 
 ```yaml
-Names : Olumide E.O. Adeola
+Names : Olumide E. Adeola
 Job: CEO Chasfat Projects
-Education:
-[
-"Aspiring Professor of Surgery",
-"Self Taught Developer and Security Analyst",
 
-]
 Fields of Interest:
 [
 "Classical Music",
@@ -54,6 +47,27 @@ Technologies:[
 
 ]
 ```
+<br/>
+<div>
+<dl>
+  <dt> Mission </dt>
+  <dd>
+
+  <li>Simply an earthly vessel containing God's precious treasures</li>
+  <li> A being who treasures knowledge with its useful and invaluable application</li>
+  </dd>
+</dl>
+<dl>
+  <dt> Vision </dt>
+  <dd>
+<li>To become a world-class Professor of Surgery & Solutions</li>
+<li> To make simple impacts of herculean values</li>
+  </dd>
+</dl>
+
+
+  
+</div>
 <br/>
 <div>
   <h3> Technologies </h3>
