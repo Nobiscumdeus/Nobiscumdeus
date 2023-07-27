@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
@@ -93,7 +96,8 @@ CLI Languages:[
  
 </div>
 </body>
-  
+    
+</html>
 
 <!---
 Nobiscumdeus/Nobiscumdeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
