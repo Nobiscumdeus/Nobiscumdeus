@@ -1,7 +1,11 @@
 <p align="center">
 <h1>CHASFAT</h1> <h3>Classicals | Health | Academics | Finance | Agriculture | Technology</h3> 
 </p>
+<p>
 Compilation of projects on full stack software development, data science and machine learning and much more ...
+  
+</p>
+
 
 <!---
 Nobiscumdeus/Nobiscumdeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
