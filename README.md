@@ -5,6 +5,8 @@
 Compilation of projects on full stack software development, data science and machine learning and much more ...
   
 </p>
+
+```yaml
 <div>
 <h3> A little about me and my interests </h3><br/>
 <dl>
@@ -17,6 +19,7 @@ Compilation of projects on full stack software development, data science and mac
   
 </div>
 
+```
   
 
 <!---
