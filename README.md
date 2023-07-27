@@ -67,10 +67,7 @@ Cybersecurity:
 "Metasploit"
 ]
 
-
 ]
-
-
 CLI Languages:[
 "Windows CMD",
 "Powershell",
@@ -83,8 +80,6 @@ CLI Languages:[
 <div>
   <h3> Tools </h3>
   
- 
-          
 <i class="devicon-git-plain colored"></i>
 <i class="devicon-git-plain colored"></i>
 <i class="devicon-javascript-plain colored"></i>
