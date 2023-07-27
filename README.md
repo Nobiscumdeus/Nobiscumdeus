@@ -1,4 +1,9 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&animation=fadeIn&color=random&height=300&section=header&text=OLUMIDE%20E.%20ADEOLA&fontSize=80" />
+  
+</p>
+
+<p align="center">
 
 <a href="https://chasfatprojects.netlify.app/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
