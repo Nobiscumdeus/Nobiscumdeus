@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
-<body>
-  
 
 <p align="center">
 <h1>CHASFAT</h1> <h3>Classicals | Health | Academics | Finance | Agriculture | Technology</h3> 
@@ -89,7 +82,7 @@ CLI Languages:[
 <div>
   <h3> Tools </h3>
   
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
 <i class="devicon-git-plain colored"></i>
 <i class="devicon-git-plain colored"></i>
@@ -98,9 +91,7 @@ CLI Languages:[
 <i class="devicon-mysql-plain colored"></i>
  
 </div>
-</body>
-    
-</html>
+
 
 <!---
 Nobiscumdeus/Nobiscumdeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
