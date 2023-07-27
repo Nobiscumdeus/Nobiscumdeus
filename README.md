@@ -83,7 +83,7 @@ CLI Languages:[
 <div>
   <h3> Tools </h3>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ 
           
 <i class="devicon-git-plain colored"></i>
 <i class="devicon-git-plain colored"></i>
