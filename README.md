@@ -1,3 +1,9 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+<body>
+  
+
 <p align="center">
 <h1>CHASFAT</h1> <h3>Classicals | Health | Academics | Finance | Agriculture | Technology</h3> 
 </p>
@@ -79,9 +85,14 @@ CLI Languages:[
 <br/>
 <div>
   <h3> Tools </h3>
-  <a href="https://www.iconfinder.com/icons/2993773/git_social_media_icon"></a>
+<i class="devicon-git-plain colored"></i>
+<i class="devicon-git-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-heroku-plain colored"></i>
+<i class="devicon-mysql-plain colored"></i>
  
 </div>
+</body>
   
 
 <!---
