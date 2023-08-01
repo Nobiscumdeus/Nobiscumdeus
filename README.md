@@ -110,7 +110,7 @@ Technologies:[
 <br/>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=100&text=Thanks%20for%20Checking...&fontSize=50&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=100&fontSize=50&section=footer"/>
 </p>
 
 <!---
