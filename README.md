@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<a href="https://chasfatprojects.netlify.app/" target="_blank">
+<a href="https://chasfatproject.netlify.app/" target="_blank">
   🔗 Link to my Online Portfolio
 </p>    
 
